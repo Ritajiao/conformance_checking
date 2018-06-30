@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<WorkflowLog>
+  <Process id="0">
+    <ProcessInstance id="1">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>add items</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="u1">3</Attribute>
+          <Attribute name="u2">cartoon</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>cancel</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>finalize</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="u3">0</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>finalize</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="u3">0</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>pay</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="u5">45</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>deliver</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="u6">77</Attribute>
+        </Data>
+      </AuditTrailEntry>
+    </ProcessInstance>
+  </Process>
+</WorkflowLog>

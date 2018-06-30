@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<WorkflowLog>
+  <Process id="0">
+    <ProcessInstance id="1">
+      <Data>
+        <Attribute name="numSimilarInstances">2</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">1</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">wood</Attribute>
+          <Attribute name="MT">001</Attribute>
+          <Attribute name="RP">8500</Attribute>
+          <Attribute name="MQ">120</Attribute>
+          <Attribute name="EN">C123</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="DV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">null</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="2">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">2</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">wood</Attribute>
+          <Attribute name="MT">012</Attribute>
+          <Attribute name="RP">3500</Attribute>
+          <Attribute name="MQ">80</Attribute>
+          <Attribute name="EN">C126</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="EV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="PD">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="3">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">3</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">gate</Attribute>
+          <Attribute name="MT">A03</Attribute>
+          <Attribute name="RP">9000</Attribute>
+          <Attribute name="MQ">60</Attribute>
+          <Attribute name="EN">null</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="EV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="FV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="PD">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="4">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">4</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">gate</Attribute>
+          <Attribute name="MT">A03</Attribute>
+          <Attribute name="RP">9000</Attribute>
+          <Attribute name="MQ">85</Attribute>
+          <Attribute name="EN">null</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="DV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="EV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">null</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="5">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">5</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">wood</Attribute>
+          <Attribute name="MT">A05</Attribute>
+          <Attribute name="RP">6500</Attribute>
+          <Attribute name="MQ">60</Attribute>
+          <Attribute name="EN">C125</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="DV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="EV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="PD">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="6">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">6</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">gate</Attribute>
+          <Attribute name="MT">A05</Attribute>
+          <Attribute name="RP">6500</Attribute>
+          <Attribute name="MQ">55</Attribute>
+          <Attribute name="EN">C128</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="DV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="FV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="PD">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="7">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">7</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">gate</Attribute>
+          <Attribute name="MT">A06</Attribute>
+          <Attribute name="RP">10000</Attribute>
+          <Attribute name="MQ">55</Attribute>
+          <Attribute name="EN">C120</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="DV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">null</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="FV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="8">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">8</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">gate</Attribute>
+          <Attribute name="MT">A06</Attribute>
+          <Attribute name="RP">2500</Attribute>
+          <Attribute name="MQ">68</Attribute>
+          <Attribute name="EN">C127</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="FV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="PD">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="9">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">9</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">sand</Attribute>
+          <Attribute name="MT">A10</Attribute>
+          <Attribute name="RP">5000</Attribute>
+          <Attribute name="MQ">60</Attribute>
+          <Attribute name="EN">C121</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="EV">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="CV">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="FV">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="PD">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="10">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="ID">10</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="MN">sand</Attribute>
+          <Attribute name="MT">A10</Attribute>
+          <Attribute name="RP">3000</Attribute>
+          <Attribute name="MQ">60</Attribute>
+          <Attribute name="EN">C122</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="DV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="EV">yes</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="GV">no</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="FV">null</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+  </Process>
+</WorkflowLog>

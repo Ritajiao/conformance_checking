@@ -1,0 +1,8 @@
+A:ID=int
+B:MN=wood||door||gate&MT=String&RP=[2000,8000]&MQ=[1,100]&EN=String
+C:DV=yes||no
+D:EV=yes||no
+E:GV=yes||no
+F:CV=yes||no
+G:FV=yes||no
+H:PD=yes||no

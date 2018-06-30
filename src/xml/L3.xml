@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<WorkflowLog>
+  <Process id="0">
+    <ProcessInstance id="1">
+      <Data>
+        <Attribute name="numSimilarInstances">2</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="2">
+      <Data>
+        <Attribute name="numSimilarInstances">3</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>D</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="3">
+      <Data>
+        <Attribute name="numSimilarInstances">5</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>E</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>F</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>I</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+    </ProcessInstance>
+    <ProcessInstance id="4">
+      <Data>
+        <Attribute name="numSimilarInstances">2</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>A</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>B</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>C</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>G</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>H</WorkflowModelElement>
+        <EventType>complete</EventType>
+      </AuditTrailEntry>
+    </ProcessInstance>
+  </Process>
+</WorkflowLog>

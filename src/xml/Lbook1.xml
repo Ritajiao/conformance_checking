@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB2312"?>
+
+<WorkflowLog>
+  <Process id="0">
+    <ProcessInstance id="1">
+      <Data>
+        <Attribute name="numSimilarInstances">1</Attribute>
+      </Data>
+      <AuditTrailEntry>
+        <WorkflowModelElement>add items</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data>
+          <Attribute name="u1">3</Attribute>
+          <Attribute name="u2">novel</Attribute>
+        </Data>
+      </AuditTrailEntry>
+      <AuditTrailEntry>
+        <WorkflowModelElement>cancel</WorkflowModelElement>
+        <EventType>complete</EventType>
+        <Data/>
+      </AuditTrailEntry>
+    </ProcessInstance>
+  </Process>
+</WorkflowLog>

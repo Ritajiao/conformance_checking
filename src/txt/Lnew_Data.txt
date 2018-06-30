@@ -1,0 +1,10 @@
+ID=1,MN=wood&MT=001&RP=8500&MQ=120&EN=C123,DV=yes,GV=yes,CV=null
+ID=2,MN=wood&MT=012&RP=3500&MQ=80&EN=C126,EV=yes,GV=yes,CV=yes,PD=yes
+ID=3,MN=gate&MT=A03&RP=9000&MQ=60&EN=null,EV=yes,GV=yes,CV=yes,FV=yes,PD=yes
+ID=4,MN=gate&MT=A03&RP=9000&MQ=85&EN=null,DV=yes,EV=yes,GV=no,CV=null
+ID=5,MN=wood&MT=A05&RP=6500&MQ=60&EN=C125,DV=yes,EV=yes,GV=yes,CV=yes,PD=yes
+ID=6,MN=gate&MT=A05&RP=6500&MQ=55&EN=C128,DV=yes,GV=yes,CV=yes,FV=yes,PD=yes
+ID=7,MN=gate&MT=A06&RP=10000&MQ=55&EN=C120,DV=yes,GV=yes,CV=null,FV=yes
+ID=8,MN=gate&MT=A06&RP=2500&MQ=68&EN=C127,GV=yes,CV=yes,FV=yes,PD=no
+ID=9,MN=sand&MT=A10&RP=5000&MQ=60&EN=C121,EV=no,CV=no,FV=no,PD=no
+ID=10,MN=sand&MT=A10&RP=3000&MQ=60&EN=C122,DV=yes,EV=yes,GV=no,FV=null
