@@ -1,0 +1,11 @@
+/*#view article{*/
+    /*width:1350px;*/
+    /*height:580px;*/
+    /*background: url('../images/tile_corkboard.jpg');*/
+/*}*/
+#viewModelNet{
+    overflow: auto;
+    border: 1px solid black;
+    width: 1348px;
+    height: 525px;
+}

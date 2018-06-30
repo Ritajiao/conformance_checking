@@ -1,0 +1,110 @@
+.title{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: black;
+    color: white;
+}
+.left_title{
+    font-size: 20px;
+    margin-left: 15px;
+}
+.right_title{
+    float: right;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 5px;
+    background-color: #555555;
+    margin-right: 15px;
+    margin-top: 5px;
+    padding: 5px;
+    position: relative;
+}
+.right_title:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+}
+.right_title div:nth-of-type(1){
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+.right_title div:nth-of-type(2){
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-left: 10px;
+}
+.right_title input{
+    position:absolute;
+    display: inline-block;
+    width:110px ;
+    height: 40px;
+    cursor: pointer;
+    left:0;
+    top:0;
+    opacity:0;
+}
+#workspace article{
+    padding: 20px;
+    background: url("../images/tile_wooden.jpg");
+    /*background-size: contain;*/
+}
+.fileList{
+    width: 90%;
+    height: 500px;
+    border-radius: 5px;
+    background-color: #d3d3d3;
+    margin: auto;
+    /*auto只有超过高度时，才会出现滑动条*/
+    overflow-y: auto;
+    /*overflow-y: scroll;*/
+}
+.file{
+    height: 55px;
+    margin-bottom: 1px;
+    overflow: hidden;
+}
+.file:hover{
+    cursor: pointer;
+    background-color: #fdf5ce;
+}
+.fileList img{
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.description{
+    height: 55px;
+    margin-left: 15px;
+    padding-top: 10px;
+    float: left;
+}
+.operation{
+    float: right;
+}
+.operation span{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 100%;
+    background-color: #787878;
+}
+.operation span:hover{
+    background-color: #D8BB13;
+    cursor: pointer;
+}
+.operation span img{
+    margin: auto;
+}
+.postFileName{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+

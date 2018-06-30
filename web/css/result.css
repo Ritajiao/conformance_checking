@@ -1,0 +1,206 @@
+#form{
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+#viewResult article{
+    font-size: 13px;
+    height: 525px;
+}
+#form1{
+    height: 525px;
+    overflow: auto;
+}
+#form1 table:nth-of-type(odd){
+    margin-top: 30px;
+}
+.result{
+    /*margin-top: 10px;*/
+    float: left;
+}
+#leftResult{
+    width: 65%;
+}
+#rightResult{
+    width: 35%;
+    /*margin-left: 20px;*/
+}
+.name{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#selectButton div{
+    width: 100px;
+    height: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 20px;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    float: left;
+}
+#selectButton div:hover{
+    background-color: #c77405;
+    cursor: pointer;
+}
+
+#alignments{
+    width: 100%;
+    height: 420px;
+    overflow: auto;
+    margin-top: 20px;
+    font-family: -webkit-pictograph;
+    font-size: 12px;
+}
+
+/*左边的图形对齐部分*/
+.result1{
+    /*width: 1800px;*/
+    height: 40px;
+    line-height: 20px;
+    /*margin-top: 25px;*/
+    margin-bottom: 50px;
+    cursor: context-menu;
+}
+
+.fitness{
+    margin-right: 10px;
+    float: left;
+}
+
+.alignments{
+    float: left;
+    margin-top: 0px;
+}
+
+.figure{
+    /*margin-right: -10px;*/
+    height: 40px;
+    float: left;
+    cursor: context-menu;
+}
+.figure div{
+    float: left;
+    height: 0px;
+    width: 0px;
+    border-width: 20px 10px 20px 10px;
+    border-style:solid;
+
+}
+.greenTriangle1{
+    border-color: #00bc00 #00bc00 #00bc00 transparent;
+
+}
+.greenTriangle2{
+    border-color:transparent transparent transparent #00bc00;
+    margin-right: -18px;
+}
+.purpleTriangle1{
+    border-color: mediumpurple mediumpurple mediumpurple transparent;
+
+}
+.purpleTriangle2{
+    border-color:transparent transparent transparent mediumpurple;
+    margin-right: -18px;
+}
+
+.greyTriangle1{
+    border-color: grey grey grey transparent;
+
+}
+.greyTriangle2{
+    border-color:transparent transparent transparent grey;
+    margin-right: -18px;
+}
+
+.orangeTriangle1{
+    border-color: orange orange orange transparent;
+
+}
+.orangeTriangle2{
+    border-color:transparent transparent transparent orange;
+    margin-right: -18px;
+}
+.honeydewTriangle1{
+    border-color: lightgreen lightgreen lightgreen transparent;
+
+}
+.honeydewTriangle2{
+    border-color:transparent transparent transparent lightgreen;
+    margin-right: -18px;
+}
+
+.square{
+    float: left;
+    display: inline-block;
+    width: 25px;
+    height: 40px;
+    line-height: 40px;
+    /*background-color: green;*/
+}
+
+
+.right_section{
+    margin-left: 20px;
+}
+/*颜色标识*/
+.colorSquare{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    /*float: left;*/
+    margin-top: 8px;
+}
+
+#statistics div{
+    width: 49%;
+    height: 40px;
+    float: left;
+    line-height: 20px;
+}
+#statisticsTitle{
+    border-right:1px solid black ;
+}
+#attributesTitle{
+    background-color: black;
+    height: 30px;
+    color: white;
+}
+#attributesTitle span{
+    display: inline-block;
+    float: left;
+    width: 33.3%;
+    text-align: center;
+    line-height: 30px;
+}
+#attributesTableContent{
+    height: 200px;
+    overflow-y: auto;
+}
+#attributesTableContent div{
+    float: left;
+    width: 33.1%;
+    line-height: 20px;
+}
+#attributesTableContent div:nth-of-type(n+2){
+    border-left: 1px solid black;
+}
+#attributesTableContent span{
+    display: inline-block;
+    width: 100%;
+    overflow: hidden;
+    /*whitewhite-space:nowrap;!* 不换行 *!*/
+    text-overflow:ellipsis;     /*超出范围显示为省略号*/
+    white-space: nowrap;
+}
+
+
+
+
