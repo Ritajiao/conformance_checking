@@ -1,0 +1,2 @@
+# conformance_checking
+模仿ProM实现流程挖掘领域一致性检查算法，以网站的形式帮助学习算法和检查一致性
